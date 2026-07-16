@@ -7,7 +7,7 @@
 ---
 
 ### 💻 INFO 💻
-> *" ˗ˏˋ int *ptr = NULL; ˎˊ˗ "*
+>  ˗ˏˋ  󠁪 󠁪ㅤint *ptr = NULL;󠁪 󠁪ㅤˎˊ˗ 
 
 *   🤖 **Active Projects:** Developing **PurrChat** (Encrypted protocols / Stealth C2) and **Purracle DB** (The SQL engine for covert operations).
 *   🛡️ **Area of Operations:** Pentesting, Applied Cryptography, OSINT, and Red Teaming.
