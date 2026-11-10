@@ -1,25 +1,33 @@
 <h1 align="center">✎﹏﹏ COMANDER PURRKINS ﹏﹏</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FF1C&center=true&vCenter=true&width=500&lines=Fighting+null+pointers+with+C++...;Chilling+safe+with+Rust+%F0%9F%A6%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FF1C&center=true&vCenter=true&width=500&lines=Fighting+null+pointers+with+Cpp...;Chilling+safe+with+Rust+%F0%9F%A6%80" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="center" style="border-bottom: none;">🛠️ TOOLS 🛠️</h3>
+<h3 align="center" style="border-bottom: none;">🛠 TOOLS 🛠</h3>
 
 <br>
 
 <!-- NYA STUFF <3 -->
+<h3 align="center" style="border-bottom: none;">Aᴘᴘs ᴀɴᴅ sʏsᴛᴇᴍs sᴛᴀᴄᴋ</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="35">
   <img src="https://skillicons.dev/icons?i=cpp" width="35">
+  <img src="https://skillicons.dev/icons?i=cmake" width="35">
   <img src="https://skillicons.dev/icons?i=cs" width="35">
+   <img src="https://skillicons.dev/icons?i=dotnet" width="35">
   <img src="https://skillicons.dev/icons?i=rust" width="35">
   <img src="https://skillicons.dev/icons?i=bash" width="35">
+</p>
+<h3 align="center" style="border-bottom: none;">Wᴇʙ sᴛᴀᴄᴋ</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="35">
   <img src="https://skillicons.dev/icons?i=css" width="35">
-  <img src="https://skillicons.dev/icons?i=js" width="35">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="35">
+  <img src="https://skillicons.dev/icons?i=angular" width="35">
+  <img src="https://skillicons.dev/icons?i=ts" width="35">
+  <img src="https://skillicons.dev/icons?i=tauri" width="35">
 </p>
 
 <br>
@@ -37,8 +45,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <!-- DOCKER -->
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <!-- ASSEMBLY -->
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
 </p>
 
 ---
