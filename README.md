@@ -1,17 +1,8 @@
 <h1 align="center">✎﹏﹏ COMANDER PURRKINS ﹏﹏</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FF1C&center=true&vCenter=true&width=500&lines=Developing+PurrChat+C2...;Securing+Purracle+DB...;Memory+Safe+with+Rust+%F0%9F%A6%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FF1C&center=true&vCenter=true&width=500&lines=Fighting+null+pointers+with+C++...;Chilling+safe+with+Rust+%F0%9F%A6%80" alt="Typing SVG" />
 </p>
-
----
-
-### 💻 INFO 💻
->  ˗ˏˋ  󠁪 󠁪ㅤint *ptr = NULL;󠁪 󠁪ㅤˎˊ˗ 
-
-*   🤖 **Active Projects:** Developing **PurrChat** (Encrypted protocols / Stealth C2) and **Purracle DB** (The SQL engine for covert operations).
-*   🛡️ **Area of Operations:** Pentesting, Applied Cryptography, OSINT, and Red Teaming.
-*   🐧 **Combat OS:** Debian (100% terminal, LUKS encrypted).
 
 ---
 
